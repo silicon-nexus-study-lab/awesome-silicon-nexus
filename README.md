@@ -2,7 +2,7 @@
 
 > Curated resources from the **Silicon Nexus | Circuits & Code** community — courses, papers, tools, and datasets, organized by field. Built by the community, for the community.
 
-If you're in our [Discord](https://discord.gg/your-invite-here), this is the GitHub home of everything shared in `#resources`.
+If you're in our [Discord](https://discord.gg/SNhzuKCvhw), this is the GitHub home of everything shared in `#resources`.
 
 ## How to contribute
 
